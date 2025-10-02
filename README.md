@@ -52,3 +52,19 @@ Experiment on the Zama Testnet
 
 💡 The future of Web3 is encrypted.
 Build with Zama today and shape the next era of decentralized privacy.
+
+## 🗺 Roadmap  
+
+Here are the upcoming milestones for the **Zama Protocol** and its FHEVM Testnet:  
+
+- **Q4 2025** → Zama Mainnet launch + $ZAMA TGE 🎉  
+- **October 6–10, 2025** → Testnet upgrade to **FHEVM v0.9**  
+  - Distributed keygen  
+  - Coprocessors & relayers  
+  - Contracts refresh  
+- **October 13–17, 2025** → Migration period (all dApps need to redeploy)  
+- **October 20, 2025** → Old Testnet deprecated  
+
+👉 Note: With **FHEVM v0.9**, all state will be reset. Developers will need to redeploy contracts and reconfigure their dApps.  
+
+Stay updated on the [Zama Protocol Version Dashboard](https://www.zama.ai/roadmap).  
