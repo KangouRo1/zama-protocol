@@ -68,3 +68,26 @@ Here are the upcoming milestones for the **Zama Protocol** and its FHEVM Testnet
 👉 Note: With **FHEVM v0.9**, all state will be reset. Developers will need to redeploy contracts and reconfigure their dApps.  
 
 Stay updated on the [Zama Protocol Version Dashboard](https://www.zama.ai/roadmap).  
+
+
+### ⏭️ Upcoming (October 2025)  
+- **FHEVM v0.9 Deployment (Oct 6–10)**  
+  - Distributed keygen  
+  - New contracts & coprocessors  
+  - Improved decryption workflow  
+
+- **Migration Period (Oct 13–17)**  
+  - dApps & contracts must be redeployed  
+  - Old state will not be preserved  
+
+- **Old Testnet Deprecation (Oct 20)**  
+  - Previous infrastructure fully retired  
+
+### ✨ What’s New in v0.9  
+- On-chain FHE key & CRS generation  
+- Dynamic coprocessor management  
+- New `PauserSet` contract for added flexibility  
+- Simplified user decryption request verification  
+- Optimized event handling for scalability  
+
+📖 Full details → [Zama Protocol Version Dashboard](https://www.zama.ai/programs/creator-program)
