@@ -91,3 +91,15 @@ Stay updated on the [Zama Protocol Version Dashboard](https://www.zama.ai/roadma
 - Optimized event handling for scalability  
 
 📖 Full details → [Zama Protocol Version Dashboard](https://www.zama.ai/programs/creator-program)
+
+
+🆕 Latest Update — October 2025
+🎨 Zama Creator Program Season 3 is LIVE
+
+Zama’s Creator Program returns with $56,000 in monthly rewards, new video creator recognition, and OG NFTs for the top 1000 contributors.
+
+Every thread, video, or article explaining Zama and Fully Homomorphic Encryption (FHE) helps push confidential blockchain adoption forward.
+
+🔗 Join now → zama.ai/programs/creator-program
+
+🎥 Video content library → zama.ai/resources
