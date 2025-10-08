@@ -103,3 +103,29 @@ Every thread, video, or article explaining Zama and Fully Homomorphic Encryption
 🔗 Join now → zama.ai/programs/creator-program
 
 🎥 Video content library → zama.ai/resources
+
+
+Zama keeps pushing the boundaries of confidential blockchain.
+
+🔹 FHEVM v0.9 (Testnet Update)
+
+New keygen capabilities & dynamic coprocessor management
+
+Redesigned decryption workflow for better scalability
+
+Testnet state reset: redeploy & reconfigure dApps starting Oct 10
+
+Migration window: Oct 13–17
+
+🔹 Creator Program — Season 3
+
+$56,000 monthly prize pool
+
+New category for video creators
+
+Extended recognition: Top 1000 get Zama OG 003 NFT
+
+Early alpha access and future privileges for OG holders
+
+Confidential computing meets real community building.
+Follow the journey → https://www.zama.ai/
