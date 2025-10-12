@@ -129,3 +129,6 @@ Early alpha access and future privileges for OG holders
 
 Confidential computing meets real community building.
 Follow the journey → https://www.zama.ai/
+
+Added info about October Developer Program — builders can now compete for a full trip to Devconnect Buenos Aires by participating in the Builder Track.
+Links to Guild and Zama Developer Hub included.
