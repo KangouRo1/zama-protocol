@@ -132,3 +132,19 @@ Follow the journey → https://www.zama.ai/
 
 Added info about October Developer Program — builders can now compete for a full trip to Devconnect Buenos Aires by participating in the Builder Track.
 Links to Guild and Zama Developer Hub included.
+
+## 🆕 OG NFT Update  
+
+Zama has launched the **OG NFT claim page** for early contributors — though the claim window has not opened yet.
+
+### 🔍 Details
+
+- **Supply** : 3,500 ERC-721 tokens  
+- **Chain** : Ethereum  
+- **Purpose** : Reward builders, researchers, community members who supported Zama during its foundational phase  
+- **Unlocks** : Future perks, privileges, access (to be revealed over time)  
+
+Each OG NFT stands as a **badge of honor** — proof that you believed in privacy and FHE when it mattered most.
+
+🔗 Check the claim page (not live yet): [zama.ai/nft/og](https://www.zama.ai/nft/og)
+
